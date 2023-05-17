@@ -1,15 +1,8 @@
-A conversation with chat gpt that describes the goal of this project.
+## Project Goal
 
-I am trying to build a catalogue products with a relative or definitive measurements  of impact that it has. So here is a draft of the various categories. I am not sure if all the categories makes sense. Just my first draft. So fix the catagories. Ultimately I want to create a service where people can search for a product and see the impact it has and take decisions accordingly to use the product or not: 
-Ecological impact
-Environmental impact
-Economical impact
-Mental/happiness impact
-Sustainability impact
-Future impact
+This project aims to build a catalog of products with relative or definitive measurements of their impact. The goal is to create a service where people can search for a product and make informed decisions based on its impact.
 
-
-Creating a catalog of products with measurements of their impact is a commendable initiative. While your draft categories are a good starting point, here's a revised version that refines and expands upon them:
+### Categories
 
 1. Environmental Impact: Assess the product's effects on the environment, including factors such as carbon footprint, resource consumption, pollution, waste generation, and potential for ecosystem disruption.
 
@@ -31,4 +24,4 @@ Creating a catalog of products with measurements of their impact is a commendabl
 
 10. Future Impact: Predict the long-term consequences of the product on future generations, considering factors such as resource depletion, climate change mitigation, adaptation to future needs, and intergenerational equity.
 
-Remember, these categories can be further refined and expanded based on specific product types and industries. It's also important to develop appropriate measurement methodologies and data sources to provide accurate and reliable information to users of your service.
+Please note that these categories can be further refined and expanded based on specific product types and industries. It's important to develop appropriate measurement methodologies and use reliable data sources to provide accurate information to users of your service.
