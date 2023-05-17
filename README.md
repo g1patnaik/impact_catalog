@@ -24,4 +24,4 @@ This project aims to build a catalog of products with relative or definitive mea
 
 10. Future Impact: Predict the long-term consequences of the product on future generations, considering factors such as resource depletion, climate change mitigation, adaptation to future needs, and intergenerational equity.
 
-Please note that these categories can be further refined and expanded based on specific product types and industries. It's important to develop appropriate measurement methodologies and use reliable data sources to provide accurate information to users of your service.
+Please note that these categories can be further refined and expanded based on specific product types and industries. It's important to develop appropriate measurement methodologies and use reliable data sources to provide accurate information to users of the service.
